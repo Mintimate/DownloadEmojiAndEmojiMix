@@ -1,0 +1,9 @@
+pngs/*
+pngs1/*
+svgs/*
+
+# 日志文件
+error*.log
+
+# IDEA
+.idea
