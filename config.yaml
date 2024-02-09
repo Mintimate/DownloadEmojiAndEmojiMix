@@ -1,0 +1,18 @@
+# MetaData
+metadata_json:
+  download_url: "https://backend.emojikitchen.dev/"
+  save_path: "./source/metadata.json"
+
+# 原始Emoji SVG保存
+svg_raw: "./source/svg_raw.txt"
+svg_target: "./target/svg/"
+
+# 基于MetaData 输出 Lite 版本Emoji Mix
+emoji_lite:
+  save_path: "./target/"
+
+# Aria2 配置
+aira2:
+  host: http://localhost
+  port: 6800
+  secret: Mintimate

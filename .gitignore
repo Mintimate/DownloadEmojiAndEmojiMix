@@ -4,6 +4,8 @@ svgs/*
 
 # 日志文件
 error*.log
+error*
 
 # IDEA
+
 .idea
