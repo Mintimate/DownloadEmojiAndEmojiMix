@@ -1056,6 +1056,11 @@
  </div>
  <div>
   <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
+   <img alt="sunrise_over_mountains" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f304.svg" width="32px"/>
+  </li>
+ </div>
+ <div>
+  <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
    <img alt="partly_sunny" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u26c5.svg" width="32px"/>
   </li>
  </div>
@@ -1197,6 +1202,11 @@
  <div>
   <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
    <img alt="unicorn_face" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f984.svg" width="32px"/>
+  </li>
+ </div>
+ <div>
+  <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
+   <img alt="dragon" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f409.svg" width="32px"/>
   </li>
  </div>
  <div>
