@@ -13,7 +13,7 @@ def _load_meta_data_to_set(metaJsonFilePath):
     加载metadata
     :return:
     """
-    with open(metaJsonFilePath, 'r') as f:
+    with open(metaJsonFilePath, 'r',encoding='utf-8') as f:
         # 读取整个文件内容
         json_data = json.load(f)['data']
         return json_data
@@ -38,10 +38,11 @@ def make_lite_emoji_json(metaJsonFilePath, targetFilePath):
         emojiCombinations = emojiListCombinations[one_raw]['combinations']
         keyword_dict[one_raw] = emojiListCombinations[one_raw]['keywords']
         for emojiCombination in emojiCombinations:
-            child_dict = {"leftEmoji": emojiCombination['leftEmojiCodepoint'],
-                          "rightEmoji": emojiCombination['rightEmojiCodepoint'],
-                          "date": emojiCombination['date']}
-            one_emoji_list.append(child_dict)
+            for emojiItem in emojiCombinations[emojiCombination]:
+                child_dict = {"leftEmoji": emojiItem['leftEmojiCodepoint'],
+                              "rightEmoji": emojiItem['rightEmojiCodepoint'],
+                              "date": emojiItem['date']}
+                one_emoji_list.append(child_dict)
         new_dict[one_raw] = one_emoji_list
     # 创建保存目录
     os.makedirs(os.path.dirname(targetFilePath), exist_ok=True)
