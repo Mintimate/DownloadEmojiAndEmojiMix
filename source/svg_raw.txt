@@ -741,11 +741,6 @@
  </div>
  <div>
   <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
-   <img alt="heart_decoration" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f49f.svg" width="32px"/>
-  </li>
- </div>
- <div>
-  <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
    <img alt="heavy_heart_exclamation_mark_ornament" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u2763.svg" width="32px"/>
   </li>
  </div>
@@ -1976,11 +1971,6 @@
  </div>
  <div>
   <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
-   <img alt="metro" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f687.svg" width="32px"/>
-  </li>
- </div>
- <div>
-  <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
    <img alt="vertical_traffic_light" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f6a6.svg" width="32px"/>
   </li>
  </div>
@@ -2042,16 +2032,6 @@
  <div>
   <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
    <img alt="canoe" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f6f6.svg" width="32px"/>
-  </li>
- </div>
- <div>
-  <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
-   <img alt="mountain_cableway" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f6a0.svg" width="32px"/>
-  </li>
- </div>
- <div>
-  <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
-   <img alt="aerial_tramway" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f6a1.svg" width="32px"/>
   </li>
  </div>
  <div>
@@ -2541,32 +2521,12 @@
  </div>
  <div>
   <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
-   <img alt="level_slider" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f39a.svg" width="32px"/>
-  </li>
- </div>
- <div>
-  <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
-   <img alt="control_knobs" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f39b.svg" width="32px"/>
-  </li>
- </div>
- <div>
-  <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
    <img alt="studio_microphone" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f399.svg" width="32px"/>
   </li>
  </div>
  <div>
   <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
-   <img alt="radio" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f4fb.svg" width="32px"/>
-  </li>
- </div>
- <div>
-  <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
    <img alt="tv" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f4fa.svg" width="32px"/>
-  </li>
- </div>
- <div>
-  <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
-   <img alt="vhs" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f4fc.svg" width="32px"/>
   </li>
  </div>
  <div>
@@ -2691,16 +2651,6 @@
  </div>
  <div>
   <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
-   <img alt="razor" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1fa92.svg" width="32px"/>
-  </li>
- </div>
- <div>
-  <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
-   <img alt="hair_pick" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1faae.svg" width="32px"/>
-  </li>
- </div>
- <div>
-  <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
    <img alt="basket" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f9fa.svg" width="32px"/>
   </li>
  </div>
@@ -2807,11 +2757,6 @@
  <div>
   <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
    <img alt="hammer_and_wrench" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f6e0.svg" width="32px"/>
-  </li>
- </div>
- <div>
-  <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
-   <img alt="pick" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u26cf.svg" width="32px"/>
   </li>
  </div>
  <div>
@@ -3131,11 +3076,6 @@
  </div>
  <div>
   <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
-   <img alt="put_litter_in_its_place" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f6ae.svg" width="32px"/>
-  </li>
- </div>
- <div>
-  <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
    <img alt="peace_symbol" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u262e.svg" width="32px"/>
   </li>
  </div>
@@ -3147,41 +3087,6 @@
  <div>
   <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
    <img alt="infinity" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u267e.svg" width="32px"/>
-  </li>
- </div>
- <div>
-  <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
-   <img alt="heavy_multiplication_x" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u2716.svg" width="32px"/>
-  </li>
- </div>
- <div>
-  <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
-   <img alt="heavy_plus_sign" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u2795.svg" width="32px"/>
-  </li>
- </div>
- <div>
-  <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
-   <img alt="heavy_minus_sign" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u2796.svg" width="32px"/>
-  </li>
- </div>
- <div>
-  <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
-   <img alt="heavy_division_sign" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u2797.svg" width="32px"/>
-  </li>
- </div>
- <div>
-  <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
-   <img alt="curly_loop" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u27b0.svg" width="32px"/>
-  </li>
- </div>
- <div>
-  <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
-   <img alt="loop" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u27bf.svg" width="32px"/>
-  </li>
- </div>
- <div>
-  <li class="MuiImageListItem-root css-kxftp1" style="height: auto; grid-column-end: span 1; grid-row-end: span 1;">
-   <img alt="wavy_dash" class="MuiImageListItem-img" height="32px" loading="lazy" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u3030.svg" width="32px"/>
   </li>
  </div>
  <div>
