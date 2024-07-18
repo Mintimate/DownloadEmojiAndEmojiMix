@@ -1,6 +1,6 @@
 # MetaData
 metadata_json:
-  download_url: "https://raw.githubusercontent.com/xsalazar/emoji-kitchen-backend/main/app/metadata.json"
+  download_url: "https://github.com/xsalazar/emoji-kitchen-backend/raw/main/app/metadata.json"
   save_path: "./source/metadata.json"
 
 # 原始Emoji SVG保存
